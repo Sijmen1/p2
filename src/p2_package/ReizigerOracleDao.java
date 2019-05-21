@@ -202,10 +202,5 @@ public class ReizigerOracleDao extends OracleBaseDao implements ReizigerDaoImpl 
 		return b;
 	}
 
-	@Override
-	public void closeConnection() {
-		// TODO Auto-generated method stub
-		
-	}
 	
 }
